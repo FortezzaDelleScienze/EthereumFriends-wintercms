@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://cryptogame01.it',
 
     /*
     |--------------------------------------------------------------------------
@@ -198,7 +198,7 @@ return [
     |
     */
 
-    'key' => 'base64:ldwM+1B5owalDz7gaTf+YhnJ095EuFbfaEQJs53udG0=',
+    'key' => 'uuFTIPRFvPKBStdvIxMtxfxQ9bPdMcAd',
 
     'cipher' => 'AES-256-CBC',
 
